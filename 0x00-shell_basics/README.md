@@ -1,1 +1,1 @@
-Folder contains a file with two lines.
+Print working directory
